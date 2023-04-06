@@ -1,0 +1,42 @@
+ <header class="jumbotron">
+        <h1 style="color: black;" class="titreDePage">Overwatch</h1>
+        <p style="color: #44576D;">Un jeu de tir à la première personne
+          multijoueur en équipe.</p>
+          <div class="card-group">
+            <div class="card color-card">
+              <div class="card-body">
+                <p class="card-text txt-card">Overwatch est un jeu de tir à la première personne
+                  multijoueur en ligne développé et édité par Blizzard Entertainment. Il
+                  a été lancé en 2016 et est rapidement devenu l'un des jeux les plus
+                  populaires de sa catégorie. Overwatch se distingue des autres jeux FPS
+                  grâce à son gameplay unique et à son univers coloré et accrocheur.</p>
+              </div>
+            </div>
+            <div class="card color-card">
+              <div class="card-body">
+                <p class="card-text txt-card">Le jeu propose une variété de modes de jeu, allant
+                  de la capture de points à la livraison de cargaison. Les joueurs
+                  peuvent choisir parmi une grande variété de héros, chacun avec des
+                  compétences et des capacités uniques. Les héros sont répartis en
+                  quatre catégories : attaque, défense, tank et soutien. Les joueurs
+                  peuvent utiliser les capacités de leur héros pour aider leur équipe à
+                  atteindre les objectifs de chaque mode de jeu.</p>
+              </div>
+            </div>
+            <div class="card color-card">
+              <div class="card-body">
+                <p class="card-text txt-card">En somme, Overwatch est un jeu FPS multijoueur
+                  captivant et coloré qui propose une variété de modes de jeu et de
+                  héros avec des capacités uniques. La communauté de joueurs est
+                  passionnée et engagée, et Blizzard continue de mettre à jour le jeu
+                  avec du nouveau contenu régulièrement. Si vous cherchez un jeu FPS
+                  avec une histoire riche et des personnages mémorables, Overwatch est
+                  un excellent choix.</p>
+              </div>
+            </div>
+          </div>
+      </header>
+
+
+
+      

@@ -1,0 +1,139 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+
+  background-color:#ADAFAE;
+}
+
+.navbar{
+    position: fixed;
+    z-index: 5;
+    width: 91%;
+    top: 0;
+    justify-content: center;
+    display: flex;  
+    background: #000 none repeat scroll 0 0;
+}
+
+/*Home Page*/
+
+.h1Home{
+  text-align: center !important;
+  color: white !important;
+  margin-top: 5%;
+}
+
+.card{
+
+  text-align: center;
+}
+.size-card img{
+  height: 500px !important;
+  width: 170px;
+}
+
+.macarte{
+
+  height: 50px;
+  width: 250px;
+}
+
+
+p{
+
+  text-align: center;
+  color: #000;
+}
+
+.txt-card{
+  font-family: serif;
+  color: #fff !important;
+}
+
+.card-text{
+  color: #ADAFAE;
+}
+.color-card{
+  background-color: #000 !important;
+}
+
+.border-size{
+  margin: 10px;
+}
+
+.card-img-top{
+  top:0;
+  margin: 15px;
+  align-self: center;
+  border: 1px solid #ccc;
+  float: left;
+  height: 466px;
+  width: 300px;
+}
+
+.card2{
+
+  height: 466px;
+}
+
+.card3{
+
+  height: 466px;
+}
+
+.titreDePage{
+
+  text-align: center;
+}
+
+footer {
+  margin-top: 50px;
+  padding: 30px 0;
+}
+
+.aPropos{
+
+color: #ADAFAE;
+text-align: left;
+}
+
+footer h4 {
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+footer p {
+  line-height: 1.8;
+}
+
+footer ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+footer ul li {
+  margin-bottom: 10px;
+}
+
+footer ul li a {
+  color: #98bae1;
+  text-decoration: none;
+}
+
+footer ul li a:hover {
+  color: #4a7098;
+}
+
+footer ul li i {
+  margin-right: 10px;
+  color: #007bff;
+}
+
+.card-footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
